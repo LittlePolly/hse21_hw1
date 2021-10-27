@@ -61,7 +61,7 @@ time platanus assemble -o Poil -t 1 -m 16 -f trimmed_fastq/R1_pe.fastq.trimmed  
 
 7. Код на python (общее количество = 613, общая длина = 3925593, длина самого длинного = 179307, N50 = 24464)
 
-https://github.com/LittlePolly/hse21_hw1/src/pvzelina_hw1.ipynb
+https://github.com/LittlePolly/hse21_hw1/blob/main/src/pvzelina_hw1.ipynb
 
 8. platanus scaffold
 ```
@@ -70,7 +70,7 @@ time platanus scaffold -o Poil -t 1 -c Poil_contig.fa -IP1 trimmed_fastq/R1_pe.f
 ```
 9. Код на Python (общее количество = 69, общая длина = 3876617, длина самого длинного = 3838446, N50 = 3838446)
 
-https://github.com/LittlePolly/hse21_hw1/src/pvzelina_hw1.ipynb
+https://github.com/LittlePolly/hse21_hw1/blob/main/src/pvzelina_hw1.ipynb
 
 10. Анализ самого длинного scaffold (количество gap = 64, общая длина = 7326)
 
